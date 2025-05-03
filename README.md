@@ -51,15 +51,10 @@ Edit & Delete Functionality
 
 
 ## Folder Structure (Simplified)
+![image](https://github.com/user-attachments/assets/105f13e9-420f-4bc1-b3e1-4858d79a3d9f)
+
+## Screenshots-
+![image](https://github.com/user-attachments/assets/a8732f2f-ea45-4143-9d3c-44e669d9ee5f)
 
 
-note-maker/
-│
-├── client/          # React Frontend
-├── server/          # Express Backend
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── ...
-├── README.md
-└── ...
+![image](https://github.com/user-attachments/assets/b2f6b6b5-1a18-43c0-8cdf-a2cbbed4ea06)
