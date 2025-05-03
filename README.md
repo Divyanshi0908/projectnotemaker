@@ -2,6 +2,8 @@
 
 *Note-Maker* is a simple, user-friendly web application that allows users to register, log in, and manage their personal notes. Users can create, view, update, and delete notes with ease. All notes are displayed in a structured table format for quick access and readability.
 
+##Demo URL-https://curious-profiterole-8d459b.netlify.app/
+
 ## 🚀 Features
 
 - 🔐 User Authentication (Register/Login)
@@ -58,3 +60,5 @@ Edit & Delete Functionality
 
 
 ![image](https://github.com/user-attachments/assets/b2f6b6b5-1a18-43c0-8cdf-a2cbbed4ea06)
+
+
